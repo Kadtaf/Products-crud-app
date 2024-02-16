@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 2300,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 1200,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 890,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Camera",
+      "price": 1890,
+      "checked": false
+    },
+    {
+      "name": "Sumsung 4K",
+      "price": "399.99",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "Mac Pro",
+      "price": "2780",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "Mac Air",
+      "price": "1300",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "Ordinateur de bureau DELL",
+      "price": "2300",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "TV Sumsung 4K",
+      "price": "759",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "TV LD 4K",
+      "price": "559",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "TV SONY 4K",
+      "price": "699",
+      "checked": true,
+      "id": 11
+    }
+  ]
+}
